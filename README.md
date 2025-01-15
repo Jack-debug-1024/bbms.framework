@@ -1,2 +1,2 @@
 # bbms.framework
-公共组建
+公共组件
